@@ -42,17 +42,35 @@ Machine Learning Engineer with expertise in developing and deploying ML models, 
 
 ## 🎯 Featured Projects
 
-### 1. Predictive Analytics System
-- End-to-end ML system for sales prediction using time series analysis
-- Achieved 95% accuracy using ensemble methods
-- Tech Stack: Python, TensorFlow, AWS SageMaker
-- [View Project →](https://github.com/imrobintomar/project-link)
+### 1. **US Home Price Prediction**
+- Developed a machine learning model to predict home prices in the United States based on various real estate features.
+- Leveraged data analysis, feature engineering, and regression techniques.
+- Tech Stack: Python, Scikit-learn, Jupyter Notebooks
+- [View Project →](https://github.com/imrobintomar/US-Home-Price-Prediction)
 
-### 2. NLP Chatbot Platform
-- Built conversational AI system using transformer architecture
-- Implemented BERT-based model for intent classification
-- Tech Stack: PyTorch, Rasa, Docker
-- [View Project →](https://github.com/imrobintomar/project-link)
+### 2. **RNA-Seq Annotator**
+- Created a robust Python tool to annotate RNA sequencing data using standardized ontologies.
+- Applied bioinformatics techniques for RNA-seq data analysis.
+- Tech Stack: Python, Bioinformatics Pipelines
+- [View Project →](https://github.com/imrobintomar/rna-seq-annotator)
+
+### 3. **Motif Finder**
+- Developed a tool for extracting protein sequence patterns using the ScanProsite tool from ExPASy.
+- Scanned FASTA files and saved results in CSV format.
+- Tech Stack: Python, Bioinformatics Tools
+- [View Project →](https://github.com/imrobintomar/Motif_finder)
+
+### 4. **AI Therapist Chatbot**
+- Built an AI-powered chatbot to provide therapeutic conversations using GPT-3.5.
+- Designed to offer a non-judgmental space for users to express their thoughts.
+- Tech Stack: Python, OpenAI GPT-3.5, Jupyter Notebooks
+- [View Project →](https://github.com/imrobintomar/AI-Therapist-Chatbot)
+
+### 5. **Protein Sequence Analysis**
+- Python-based tool for analyzing protein sequences and calculating physicochemical properties.
+- Utilized BioPython's ProtParam module.
+- Tech Stack: Python, Bioinformatics
+- [View Project →](https://github.com/imrobintomar/protein-sequence-analysis)
 
 ## 📈 GitHub Stats
 
